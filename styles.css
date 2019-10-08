@@ -1,0 +1,23 @@
+
+  .hover:hover{
+         color: red;
+  }
+  body{
+      background-color: #EAF6F6;
+   }
+
+  h1,h3{
+    color: #e25822;
+  }
+
+  h3:hover{
+    color: red;
+  }
+
+  hr{
+      border-color: grey;
+      border-width: 5px;
+      border-top-style: none;
+      border-bottom-style: dotted;
+      width: 5%;
+   }
